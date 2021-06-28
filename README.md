@@ -1,6 +1,7 @@
 # ass-calc
 
 This is a text based assignments calculator written in Java.
+
 The syntax is a subset of Java numeric expressions and operators. 
 
 - You can use (positive/negative) numbers and variables as Operands
