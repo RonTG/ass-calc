@@ -7,7 +7,7 @@ The syntax is a subset of Java numeric expressions and operators.
 - You can use ++, --, +, -, *, /, % and ^^ (Power of 2) as Operators
 
 Input Constraints:
-- Whitespace is required before/after ++ and -- with respect to their position (i.e X++ ++X).
+- Whitespace is required before/after ++ and -- with respect to their position (i.e X++ ++X)
 - Whitespace is required before positive/negative (+/-) Operands
 
 At any stage, you can:
