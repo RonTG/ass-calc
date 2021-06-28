@@ -1,6 +1,8 @@
-# ass-calc
+# calcoola
 
-This is a text based assignments calculator written in Java.
+Welcome to Calcoola!
+
+A text based assignments calculator written in Java.
 
 The syntax is a subset of Java numeric expressions and operators. 
 
@@ -15,3 +17,5 @@ At any stage, you can:
 - Press p to print the computed variables
 - Press r to clear the computation history
 - Press q to exit
+
+
