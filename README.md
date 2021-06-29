@@ -4,6 +4,7 @@ Welcome to Calcoola!
 
 A text-based assignments calculator written in Java.
 
+The input is a series of assignment expressions. 
 The syntax is a subset of Java numeric expressions and operators. 
 
 - You can use (positive/negative) numbers and variables as Operands
