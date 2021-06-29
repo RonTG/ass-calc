@@ -6,7 +6,7 @@ import java.util.*;
     // 0. Scans for user input
     // 1. Checks for input's validity using regular expression
     // 2. Parses the given input into Evaluable list
-    // 3. Transfers the list into postfix representation
+    // 3. Transforms the list into postfix representation
     // 4. Evaluates the new list and updates the variable table
 
  public class Calculator {
