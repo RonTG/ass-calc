@@ -2,7 +2,7 @@
 
 Welcome to Calcoola!
 
-A text based assignments calculator written in Java.
+A text-based assignments calculator written in Java.
 
 The syntax is a subset of Java numeric expressions and operators. 
 
